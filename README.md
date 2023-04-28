@@ -19,9 +19,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://tolujohnport.netlify.app/)
 [![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1pdISUpxApz1lr7GcNIRuaogtNPADG98_Fb5hORLMFRw/edit?usp=sharing)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:tolujohnofficial@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Neeraj%20Choubisa-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/tolu-john-028060241/)
-[![Twitter](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=twitter)](https://twitter.com/Tolujoh_n)
-
 
 
 ## 🔗 Github Analysis 
