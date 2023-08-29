@@ -5,7 +5,7 @@
 <!-- hello -->
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&width=550&lines=This+%2C+Tolu+John+;  Full+Stack+Web+Blockchain+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&width=550&lines=This+%2C+Tolu+John+;  Full+Stack+Blockchain+Developer" alt="Typing SVG" /></a>
   
 </p>
 
@@ -27,15 +27,6 @@
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:tolujohnofficial@gmail.com)
 
 
-## 🔗 Github Analysis 
-<p>
-<a href="https://github.com/Tolujoh-n">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tolujoh-n&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tolujoh-n&layout=compact&langs_count=8&theme=blue-green"/>
-</a>
-</p>
-<br/>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tolujoh-n&" alt="Tolujohn" /></p>
 
 
 ## 🛠 Languages and Tools:
@@ -85,9 +76,5 @@ style="vertical-align:top; margin: 4px">
 style="vertical-align:top; margin: 4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" alt="cpp" height="40"
 style="vertical-align:top; margin: 4px">
-  
-  
-  
-
 </p>
 
