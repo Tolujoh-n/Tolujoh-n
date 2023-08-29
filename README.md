@@ -21,12 +21,6 @@
 ![](https://komarev.com/ghpvc/?username=Tolujoh-n&color=green)
 
 
-## 🔗 Know more about me 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://tolujohnport.netlify.app/)
-[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1pdISUpxApz1lr7GcNIRuaogtNPADG98_Fb5hORLMFRw/edit?usp=sharing)
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:tolujohnofficial@gmail.com)
-
-
 
 
 ## 🛠 Languages and Tools:
@@ -77,4 +71,12 @@ style="vertical-align:top; margin: 4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" alt="cpp" height="40"
 style="vertical-align:top; margin: 4px">
 </p>
+
+
+## 🔗 Know more about me 
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://tolujohnport.netlify.app/)
+[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1pdISUpxApz1lr7GcNIRuaogtNPADG98_Fb5hORLMFRw/edit?usp=sharing)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:tolujohnofficial@gmail.com)
+
+
 
